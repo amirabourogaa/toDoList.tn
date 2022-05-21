@@ -29,11 +29,19 @@ function App() {
 
       <h2> MOdification made in this line</h2>
 
+<<<<<<< HEAD
       <h3>Ahmed passed from here</h3>
       <h3>Ahmed passed from here</h3>
       <h3>Ahmed passed from here</h3>
       <h3>Ahmed passed from here</h3>
       <h3>Ahmed passed from here</h3>
+=======
+<input type="text"></input>
+<button>SEND</button>
+<h3>Confict try resolving </h3>
+<h2>accept only my changes </h2>
+
+>>>>>>> df811de6ff152a8d180fb47af1ffcbb0e3fca323
       <Footer/>
     </div>
   );
