@@ -28,6 +28,12 @@ function App() {
       })}
 
       <h2> MOdification made in this line</h2>
+
+<input type="text"></input>
+<button>SEND</button>
+<h3>Confict try resolving </h3>
+<h2>accept only my changes </h2>
+
       <Footer/>
     </div>
   );
