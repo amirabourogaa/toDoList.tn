@@ -26,6 +26,8 @@ function App() {
           />
         )
       })}
+
+      <h2> MOdification made in this line</h2>
       <Footer/>
     </div>
   );
